@@ -35,7 +35,7 @@ nux-front-end-login/
 
 ## Usage
 - Add the shortcode `[nux_login_form]` to any page or post to display the custom login form.
-- Optionally use the nux_login_form() function in your theme template files.
+- Optionally use the `nux_login_form()` function in your theme template files.
 - Customize the email templates located in the `templates/` directory as needed.
 
 ## Development
